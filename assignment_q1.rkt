@@ -1,4 +1,9 @@
 #lang racket
+
+;Davin O'Brien
+;06674062
+;Assignment 2 Question 1
+
 ;part i
 >(cons 2 3)
 
